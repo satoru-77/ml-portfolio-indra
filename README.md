@@ -13,3 +13,7 @@ Each week I'll update my progress or Projects.
 | 2025-09-18 | Git Basics   | Udemy Course | ⭐⭐⭐☆☆ (3/5) | Learned branching and merging |
 | 2025-09-20 | Linear Algebra | Khan Academy | ⭐⭐☆☆☆ (2/5) | Need more practice on vectors |
 
+### Current Confidence Levels
+- Arrays: ![Confidence: 2/5](https://img.shields.io/badge/Confidence-2%2F5-red)
+- Git: ![Confidence: 3/5](https://img.shields.io/badge/Confidence-3%2F5-yellow)
+- Linear Algebra: ![Confidence: 4/5](https://img.shields.io/badge/Confidence-4%2F5-green)
