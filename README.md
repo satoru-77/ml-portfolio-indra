@@ -3,4 +3,4 @@ Each week I'll update my progress or Projects.
 
 ## TOOLS
 
-**GIT and GITHUB**
+**GitHub/Git**
